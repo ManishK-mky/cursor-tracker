@@ -1,0 +1,19 @@
+body{
+    background-image: url(img.png);
+}
+
+#tracker{
+    position: fixed;
+    transform: translate(-50%,-50%);
+    width:66px;
+    height:66px;
+    margin-top: 45px;
+    margin-left: 60px;
+    border-radius: 51px;
+    z-index: 9999;
+    pointer-events: none;
+    transition: all .18s;
+    background-color: rgb(134, 196, 196);
+    border: 2px solid cadetblue;
+}
+
