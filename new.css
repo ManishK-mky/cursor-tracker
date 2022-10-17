@@ -12,8 +12,8 @@ body{
     border-radius: 51px;
     z-index: 9999;
     pointer-events: none;
-    transition: all .18s;
+    transition: all .20s;
     background-color: rgb(134, 196, 196);
-    border: 2px solid cadetblue;
+    border: 2px solid rgb(36, 137, 141);
 }
 
